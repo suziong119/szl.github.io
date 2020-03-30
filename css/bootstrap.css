@@ -5325,8 +5325,7 @@ input[type=submit].btn-block {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-align: start;
-    align-items: flex-start;
-	width:150%;	
+    align-items: flex-start;	
 }
 
 .media-body {
